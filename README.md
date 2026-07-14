@@ -1,1 +1,9 @@
-# EFEKTA-TH-DUO-V2
+# EFEKTA TH DUO V2
+
+Телеграм чат DIY Devices - https://t.me/diy_devices
+
+Продажа DIY Устройств - https://t.me/diydevmart
+
+Описание: http://efektalab.com/TH_DUO_V2/
+
+![EFEKTA TH DUO V2 Temperature and humidity sensor](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-TH-DUO-V2/main/Images/1.png) 
