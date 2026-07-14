@@ -6,4 +6,4 @@
 
 Описание: http://efektalab.com/TH_DUO_Max/
 
-![EFEKTA TH DUO V2 Temperature and humidity sensor](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-TH-DUO-V2/main/Images/1.png) 
+![EFEKTA TH DUO Max Temperature and humidity sensor](https://raw.githubusercontent.com/smartboxchannel/EFEKTA-TH-DUO-V2/main/Images/1.png) 
